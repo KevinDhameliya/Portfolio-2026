@@ -1,122 +1,106 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "1",
+      "name": "ViGu - Virtual Guide",
+      "createdAt": "2024-01-10T00:00:00Z",
+      "url": "https://play.google.com/store/apps/details?id=guide.vigu.vigu&hl=en_IN",
+      "description": "Location-based Android application with real-time navigation, route tracking and interactive exploration using HERE Maps SDK.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Kotlin",
+          "iconifyClass": "logos-kotlin"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Android",
+          "iconifyClass": "logos-android-icon"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "Retrofit",
+          "iconifyClass": "simple-icons:retrofit"
+        },
+        {
+          "name": "Git",
+          "iconifyClass": "logos-git-icon"
         }
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "id": "2",
+      "name": "Courtly Booking App",
+      "createdAt": "2024-02-15T00:00:00Z",
+      "url": "https://play.google.com/store/apps/details?id=com.courtlybooking.app&hl=en_IN",
+      "description": "Sports court booking application for Android & iOS with slot booking, payments, player matching and real-time booking management.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Kotlin",
+          "iconifyClass": "logos-kotlin"
+        },
+        {
+          "name": "Android SDK",
+          "iconifyClass": "logos-android-icon"
+        },
+        {
+          "name": "REST API",
+          "iconifyClass": "simple-icons:fastapi"
+        },
+        {
+          "name": "Git",
+          "iconifyClass": "logos-git-icon"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "id": "3",
+      "name": "Speira App",
+      "createdAt": "2024-03-20T00:00:00Z",
+      "url": "https://play.google.com/store/apps/details?id=com.iflair.speira",
+      "description": "Workspace management and productivity tracking Android app with timer modules, smooth navigation and REST API integration.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Kotlin",
+          "iconifyClass": "logos-kotlin"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "MVVM",
+          "iconifyClass": "simple-icons:android"
+        },
+        {
+          "name": "Retrofit",
+          "iconifyClass": "simple-icons:retrofit"
+        },
+        {
+          "name": "GitHub",
+          "iconifyClass": "logos-github-icon"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "ClassCare App",
+      "createdAt": "2023-08-10T00:00:00Z",
+      "url": "https://play.google.com/store/apps/details?id=com.wamasoftware.classcare&hl=en_IN",
+      "description": "Cross-platform educational application for students, parents and teachers with communication, notifications and academic tracking features.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React Native",
+          "iconifyClass": "logos-react"
         },
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "REST API",
+          "iconifyClass": "simple-icons:fastapi"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Git",
+          "iconifyClass": "logos-git-icon"
         }
       ]
     }
