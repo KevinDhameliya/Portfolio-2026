@@ -17,8 +17,8 @@
           "iconifyClass": "logos-android-icon"
         },
         {
-          "name": "Retrofit",
-          "iconifyClass": "simple-icons:retrofit"
+          "name": "REST API",
+          "iconifyClass": "simple-icons:fastapi"
         },
         {
           "name": "Git",
@@ -69,8 +69,8 @@
           "iconifyClass": "simple-icons:android"
         },
         {
-          "name": "Retrofit",
-          "iconifyClass": "simple-icons:retrofit"
+          "name": "REST API",
+          "iconifyClass": "simple-icons:fastapi"
         },
         {
           "name": "GitHub",
