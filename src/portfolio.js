@@ -24,7 +24,8 @@ const greeting = {
   nickname: "Android Developer",
   subTitle:
     "Android Developer with 2+ years of experience building production-ready Android applications using Kotlin, MVVM architecture, Retrofit, Firebase, and Jetpack Compose.",
-  resumeLink: "YOUR_GOOGLE_DRIVE_RESUME_LINK",
+  resumeLink:
+    "https://drive.google.com/file/d/1DoQ_1lG1Q3gp0pxe24p46YtC4Zc6opT6/view?usp=sharing",
   portfolio_repository: "https://github.com/KevinDhameliya",
   githubProfile: "https://github.com/KevinDhameliya",
 };
